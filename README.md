@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mustafamaaz
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on GDSC
+- 👀 I’m interested in Block-chain/AI/ML
+- 🌱 I’m currently learning Block-chain
+- 💞️ I’m looking to collaborate with Node.Js developer team
 
 
 <!---
